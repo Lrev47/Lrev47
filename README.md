@@ -38,7 +38,8 @@ const lrev47 = {
         tools: ["Git", "VS Code", "Postman", "Figma"]
     },
     currentFocus: "Building AI-powered applications and microservices",
-    funFact: "I've renamed 98 GitHub repos in one day!"
+    funFact: "I've renamed 98 GitHub repos in one day!",
+    learning: "LangChain, LangGraph, and AI-powered development"
 };
 ```
 
