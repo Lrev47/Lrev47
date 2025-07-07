@@ -18,30 +18,33 @@
 
 I'm a passionate Full Stack Developer with expertise in building scalable web applications and innovative solutions. I love turning ideas into reality through code and am constantly exploring new technologies to expand my skill set.
 
-```javascript
-const lrev47 = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"],
-            stateManagement: ["Redux", "Context API", "Zustand"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["FastAPI", "Django"],
-            databases: ["PostgreSQL", "MongoDB", "Redis"],
-            orm: ["Prisma", "TypeORM", "Sequelize"]
-        },
-        devOps: ["Docker", "GitHub Actions", "AWS", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building AI-powered applications and microservices",
-    funFact: "I've renamed 98 GitHub repos in one day!",
-    learning: "LangChain, LangGraph, and AI-powered development"
-};
-```
+### 💼 Professional Summary
+- Full Stack Developer specializing in modern JavaScript/TypeScript ecosystems
+- Experienced in building and deploying production-ready applications
+- Strong background in both frontend and backend development
+- Passionate about clean code, best practices, and continuous learning
+
+### 🔧 Core Technologies
+- **Languages**: JavaScript, TypeScript, Python, HTML5, CSS3
+- **Frontend**: React, Next.js, Vue.js, Tailwind CSS, Redux, Context API
+- **Backend**: Node.js, Express.js, NestJS, FastAPI, Django
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **ORMs**: Prisma, TypeORM, Sequelize
+- **DevOps**: Docker, GitHub Actions, AWS, Vercel
+- **Tools**: Git, VS Code, Postman, Figma
+
+### 🎯 Current Focus
+I'm currently focused on building AI-powered applications and microservices, exploring the intersection of traditional web development with cutting-edge AI technologies to create innovative solutions.
+
+### 📚 Learning & Growth
+Actively expanding my expertise in:
+- LangChain and LangGraph for AI application development
+- Advanced TypeScript patterns and architectures
+- Microservices and distributed systems
+- Cloud-native development practices
+
+### ⚡ Fun Fact
+I successfully renamed and reorganized 98 GitHub repositories in a single day, implementing a comprehensive naming convention system!
 
 ## 🏆 Featured Projects
 
