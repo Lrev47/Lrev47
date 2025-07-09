@@ -77,12 +77,6 @@ Actively expanding my expertise in:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lrev47&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
----
 
 <div align="center">
   <h3>💡 Random Developer Quote</h3>
