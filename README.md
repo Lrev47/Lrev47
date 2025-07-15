@@ -1,4 +1,4 @@
-# Hey there! I'm Lrev47 👋
+# Hey there! I'm Luis Revilla 👋
 
 <div align="center">
   
@@ -26,12 +26,12 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 ### 🔧 Core Technologies
 - **Languages**: JavaScript, TypeScript, Python, HTML5, CSS3
-- **Frontend**: React, Next.js, Vue.js, Tailwind CSS, Redux, Context API
-- **Backend**: Node.js, Express.js, NestJS, FastAPI, Django
+- **Frontend**: React, Next.js, Tailwind CSS, Redux, Context API
+- **Backend**: Node.js, Express.js, FastAPI, Django
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **ORMs**: Prisma, TypeORM, Sequelize
-- **DevOps**: Docker, GitHub Actions, AWS, Vercel
-- **Tools**: Git, VS Code, Postman, Figma
+- **DevOps**: Docker, GitHub Actions, AWS, Vercel, Netlify
+- **Tools**: Git, VS Code, Postman, Figma, Insonmia
 
 ### 🎯 Current Focus
 I'm currently focused on building AI-powered applications and microservices, exploring the intersection of traditional web development with cutting-edge AI technologies to create innovative solutions.
@@ -56,13 +56,11 @@ Actively expanding my expertise in:
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Databases & ORMs
